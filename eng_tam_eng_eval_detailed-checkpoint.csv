@@ -1,0 +1,11 @@
+Question,Answer_English,Tamil_Translated,English_ReTranslated,char_similarity,word_similarity,token_overlap
+Athens : Greece :: Baghdad : ?,Iraq,அதீனா : கிரீஸ் :: பாக்தாத் : ஈராக்,Athina: Greece :: Baghdad: Iraq,0.22857142857142856,0.25,1.0
+Athens : Greece :: Bangkok : ?,Thailand,அதீனா : கிரீஸ் :: பாங்காக் : தாய்லாந்து,Athina : Greece :: Bangkok : Thailand,0.35555555555555557,0.25,1.0
+Athens : Greece :: Beijing : ?,China,அதீனா : கிரீஸ் :: பீஜிங் : சீனா,Athina: Greece :: Beijing: China,0.2702702702702703,0.25,1.0
+Athens : Greece :: Berlin : ?,Germany,அதீனா : கிரீஸ் :: பெர்லின் : ஜெர்மனி,Athina: Greece :: Berlin: Germany,0.35,0.25,1.0
+Athens : Greece :: Bern : ?,Switzerland,அதீனா : கிரீஸ் :: பெர்ன் : சுவிட்சர்லாந்து,Athina: Greece :: Bern: Switzerland,0.4782608695652174,0.25,1.0
+Athens : Greece :: Cairo : ?,Egypt,அதீனா : கிரீஸ் :: கெய்ரோ : எகிப்து,Athina: Greece :: Cairo: Egypt,0.2857142857142857,0.25,1.0
+Athens : Greece :: Canberra : ?,Australia,அதென்ஸ் : கிரீஸ் :: கென்பரா : ஆஸ்திரேலியா,Athens : Greece :: Canberra : Australia,0.375,0.25,1.0
+Athens : Greece :: Hanoi : ?,Vietnam,அதீனா : கிரீஸ் :: ஹானோய் : வியட்நாம்,Athina: Greece :: Hanoi: Vietnam,0.358974358974359,0.25,1.0
+Athens : Greece :: Havana : ?,Cuba,அதீனா : கிரீஸ் :: ஹவானா : கியூபா,Athina: Greece :: Havana: Cuba,0.23529411764705882,0.25,1.0
+Athens : Greece :: Helsinki : ?,Finland,அதீனா : கிரீஸ் :: ஹெல்சின்கி : பின்லாந்து,Athina : Greece :: Helsinki : Finland,0.3181818181818182,0.25,1.0
